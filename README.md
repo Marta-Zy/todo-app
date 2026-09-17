@@ -1,2 +1,1 @@
-HELLO!
-This is it!
+This text should be removed.
